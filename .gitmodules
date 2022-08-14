@@ -1,0 +1,3 @@
+[submodule "node-image-processing-with-sharp"]
+	path = node-image-processing-with-sharp
+	url = https://github.com/hongphuc5497/node-image-processing-with-sharp.git
